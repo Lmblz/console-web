@@ -1,0 +1,44 @@
+﻿[
+  {
+    "version": "2.0.6",
+    "title": "Évolutions sur les pages dynamiques",
+    "date": "02/09/2024",
+    "description": "<b>Liste des nouveautés :</b><br/>- Simplification de la saisie de l'id Octipas <br/>- Prise en charge des vidéos dans la section Image / Contenu <br />- Prise en charge du format story dans la section Image / Contenu <br />- Ajout d'un titre H2 dans la section Image / Contenu <br />- Ajout du choix du type de carte dans la section Image / Carte <br />- Possibilité de définir un ID sur toutes les sections <br />- Possiblité de définir une largeur pour les éléments du slider de la section Cartes / Slider <br />- Possibilité de choisir la couleur du texte dans les zones d'éditeur de texte"
+  },
+  {
+    "version": "2.0.5",
+    "title": "Divers correctifs",
+    "date": "06/08/2024",
+    "description": "<b>Liste des nouveautés :</b><br/>- Possibilité d'ajouter un titre H3 dans la section Simple Texte.<br/>- Correctif d'un bug d'affichage dans la section Cards / Slider"
+  },
+  {
+    "version": "2.0.4",
+    "title": "Correction des liens relatifs",
+    "date": "22/07/2024",
+    "description": "<b>Liste des nouveautés :</b><br/>- Correctif qui empêche l'éditeur de liens d'ajouter un \"/\" devant les liens."
+  },
+  {
+    "version": "2.0.3",
+    "title": "Mise à jour des logs",
+    "date": "10/07/2024",
+    "description": "<b>Liste des nouveautés :</b><br/>- Enregistrement d'informations plus précises à la sauvegarde de données.<br/>- Correctif dans l'enregistrement des liens des cards.<br/>- Gestion des conflits de version des pages dynamiques."
+  },
+  {
+    "version": "2.0.2",
+    "title": "Divers correctifs",
+    "date": "10/07/2024",
+    "description": "<b>Liste des nouveautés :</b><br/>- Ouvre la modal de modification de la section au clic sur celle-ci et pas uniquement sur le bouton stylo.<br/>- Ajout de la possibilté de supprimer et monter / descendre les boutons dans la section image / contenu."
+  },
+  {
+    "version": "2.0.1",
+    "title": "Divers correctifs",
+    "date": "09/07/2024",
+    "description": "<b>Liste des nouveautés :</b><br/>- Correction de fautes dans la page d'aide.<br/>- Rectification de l'URL de retour dans les pages de condition.<br/>- Ajout de champs de modifications pour les éléments du slider de la section Cartes / Slider"
+  },
+  {
+    "version": "2.0.0",
+    "title": "Refonte globale",
+    "date": "09/07/2024",
+    "description": "La console fait peau neuve ! Toute l'interface a été revue de façon à uniformiser l'UI de l'application. Le code a aussi été revu intégralement pour faciliter la maintenabilité de l'application. <br/><b>Liste des nouveautés :</b><br/> - Suivi des nouveautés des versions <br/> - Création d'une page d'aide <br/> - Mise en place de logs d'activité <br/> - Meilleure gestion des versions en cours"
+  }
+]

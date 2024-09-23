@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="~/dist/assets/images/logo-poincon-bleu-16x16.png" />
+    <title>Console maty.com</title>
+
+        <!-- Preload CSS and apply asynchronously -->
+    <link rel="preload" href="~/dist/site.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript>
+        <link rel="stylesheet" href="~/dist/site.min.css" />
+    </noscript>
+    <script src="~/dist/site.entry.js" defer></script>
+
+</head>
+<body>
+    @RenderBody()
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

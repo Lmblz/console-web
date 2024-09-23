@@ -1,0 +1,40 @@
+{
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:9110"
+    },
+    "IIS Express Production": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "applicationUrl": "http://localhost:9110"
+    },
+    "IIS Local": {
+      "commandName": "IIS",
+      "launchUrl": "https://dev-consoleweb.maty.local/",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "windowsAuthentication": true,
+      "anonymousAuthentication": false
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": true,
+    "anonymousAuthentication": false,
+    "iis": {
+      "applicationUrl": "https://dev-consoleweb.maty.local/",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "http://localhost:9110",
+      "sslPort": 0
+    }
+  }
+}

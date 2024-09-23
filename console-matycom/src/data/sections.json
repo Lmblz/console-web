@@ -1,0 +1,78 @@
+﻿[
+  {
+    "title": "BannerSlider",
+    "displayedTitle": "Slider de bannières",
+    "description": "Section souvent située en haut de la homepage. Slider contenant d'images qui occupent la totalité de la largeur de l'écran."
+  },
+  {
+    "title": "BannerMedia",
+    "displayedTitle": "Bannière",
+    "description": "Section souvent située en haut de la homepage. Peut contenir une image simple, ou une description par dessus avec un titre, un paragraphe et un CTA."
+  },
+  {
+    "title": "EntriesList",
+    "displayedTitle": "Liste de CTA",
+    "description": "Section permettant de mettre en avant des catégories de produit. La section contient une liste de CTA redirigeant vers des catégories de produit. Si le nombre de CTA est important et dépassent de l'écran, la section se transforme en slider."
+  },
+  {
+    "title": "SimpleText",
+    "displayedTitle": "Simple texte",
+    "description": "Section contenant de simples paragraphes, avec titre et CTA."
+  },
+  {
+    "title": "CardsSlider",
+    "isSliderInsta": false,
+    "displayedTitle": "Cards / Slider",
+    "description": "Section divisée en 2 parties. La première contenant une liste de cards qu'on peut swipper pour faire défiler, la deuxième contenant un slider d'images."
+  },
+  {
+    "title": "CardsSliderInsta",
+    "displayedTitle": "Cards / Slider (Insta)",
+    "description": "Section divisée en 2 parties. La première contenant une liste de cards qu'on peut swipper pour faire défiler, la deuxième contenant un slider d'images du compte Instagram."
+  },
+  {
+    "title": "ProductsSliderSection",
+    "displayedTitle": "Slider produits",
+    "description": "Section contenant un slider de produits"
+  },
+  {
+    "title": "GridList",
+    "displayedTitle": "Grille d'images",
+    "description": "Section contenant 4 ou 5 images. La section prend la forme d'une grille dont l'apparence change selon le nombre d'élements."
+  },
+  {
+    "title": "GridPictures",
+    "displayedTitle": "Grille images / contenu",
+    "description": "Section composée d'une alternance entre image et contenu sur la largeur d'une ligne', possibilité de cummuler les lignes."
+  },
+  {
+    "title": "SimpleImages",
+    "displayedTitle": "Simples bannières",
+    "description": "Section contenant 2 bannières disposées côte à côte en desktop."
+  },
+  {
+    "title": "SimpleListing",
+    "displayedTitle": "Listing textes / images",
+    "description": "Section qui comprend une zone pour un titre, une pour du text et propose d'ajouter plusieurs images les unes sous les autres."
+  },
+  {
+    "title": "SubsectionsEntries",
+    "displayedTitle": "Sous-sections",
+    "description": "Section contenant des sous-sections qui contiennt elles-mêmes des sous-entrées. Il est possible d'ajouter autant de sous-sections et de sous-entrées que souhaité, si les listes dépassent de l'écran, la liste en question devient un slider"
+  },
+  {
+    "title": "Partners",
+    "displayedTitle": "Engagements et partenaires",
+    "description": "Section contenant une liste des engagements et des partenaires de la marque."
+  },
+  {
+    "title": "PictureCard",
+    "displayedTitle": "Image / Carte",
+    "description": "Section contenant une image et une carte."
+  },
+  {
+    "title": "RawHtml",
+    "displayedTitle": "Raw HTML",
+    "description": "Zone d'HTML."
+  }
+]

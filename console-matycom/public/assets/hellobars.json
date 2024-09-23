@@ -1,0 +1,132 @@
+[
+  {
+    "id": 0,
+    "title": "Ventes privées",
+    "content": "<p>Profitez d'offres allant jusqu'&agrave; <strong>-60%</strong> lors des ventes priv&eacute;es</p>",
+    "background": "#A2C5AC",
+    "color": "#EEEEEE",
+    "closeColor":  "#FF0000",
+    "dateCount": "2023-01-10T23:59",
+    "publication": {
+      "datePublish": "2023-01-01T08:00",
+      "dateDelete": "2023-01-10T23:59"
+    }
+  },
+  {
+    "id": 1,
+    "title": "1er jour soldes",
+    "content": "<p><strong>Foncez </strong>pour le premier jour des soldes 2023</p>",
+    "background": "#7F6A93",
+    "color": "#D3D5D4",
+    "closeColor": "#FF0000",
+    "dateCount": "2023-01-11T23:59",
+    "publication": {
+      "datePublish": "2023-01-11T08:00",
+      "dateDelete": "2023-01-11T09:00"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Solde 1ere démarque",
+    "content": "<p>Premi&egrave;re d&eacute;marque de nos <em>soldes </em>!</p>",
+    "background": "#AF9B46",
+    "color": "#DFD6A7",
+    "closeColor": "#FF0000",
+    "dateCount": "",
+    "publication": {
+      "datePublish": "2023-01-12T08:00",
+      "dateDelete": "2023-01-17T23:59"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Solde 2eme démarque",
+    "content": "<p>N'attendez plus pour profiter de la deuxi&egrave;me <a href=\"#\">d&eacute;marque</a></p>",
+    "background": "#F25757",
+    "color": "#EAF2E3",
+    "closeColor": "#FF0000",
+    "dateCount": "",
+    "publication": {
+      "datePublish": "2023-01-18T08:00",
+      "dateDelete": "2023-01-31T23:59"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Dernier jour des soldes",
+    "content": "<p>Les soldes se terminent <strong><span style=\"text-decoration: underline;\">aujourd'hui</span></strong>, profitez de nos meilleures r&eacute;ductions !</p>",
+    "background": "#294D4A",
+    "color": "#A799B7",
+    "closeColor": "#FF0000",
+    "dateCount": "2023-02-02T23:59",
+    "publication": {
+      "datePublish": "2023-02-01T08:00",
+      "dateDelete": "2023-02-02T23:59"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Saint Valentin",
+    "content": "<p>Pour la St Valentin profitez de <strong>-20%</strong> sur une s&eacute;lection de produit</p>",
+    "background": "#42273B",
+    "color": "#DAF7DC",
+    "closeColor": "#FF0000",
+    "dateCount": "2023-02-14T23:59",
+    "publication": {
+      "datePublish": "2023-02-03T08:00",
+      "dateDelete": "2023-02-14T23:59"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Cadeau collection printemps - été",
+    "content": "<p>Cette semaine, pour tout achat de plus de 120&euro; recevez un <strong>cadeau </strong>!</p>",
+    "background": "#42273B",
+    "color": "#DAF7DC",
+    "closeColor": "#FF0000",
+    "dateCount": "2023-02-19T23:59",
+    "publication": {
+      "datePublish": "2023-02-15T08:00",
+      "dateDelete": "2023-02-19T23:59"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Collection printemps été",
+    "content": "<p>La collection printemps - &eacute;t&eacute; by Maty vient d'arriver, ne ratez pas notre <em>nouvel arrivage</em> !</p>",
+    "background": "#00916E",
+    "color": "#FEEFE5",
+    "closeColor": "#FF0000",
+    "dateCount": "",
+    "publication": {
+      "datePublish": "2023-02-20T08:00",
+      "dateDelete": "2023-03-05T23:59"
+    }
+  },
+  {
+    "id": 8,
+    "title": "40% thématique couleur",
+    "content": "<p>Profitez de r&eacute;duction allant jusqu'&agrave; -40% sur une th&eacute;matique de <a href=\"#\">couleurs</a></p>",
+    "background": "#5C5D8D",
+    "color": "#CCE2A3",
+    "closeColor": "#FF0000",
+    "dateCount": "",
+    "publication": {
+      "datePublish": "2023-03-06T08:00",
+      "dateDelete": "2023-03-22T23:59"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Changement d'heure",
+    "content": "<p>A l'occasion du changement d'heure, retrouvez nos offres allant jusqu'&agrave; -30% sur une s&eacute;lection de <strong>montres de marque</strong></p>",
+    "background": "#61C9A8",
+    "color": "#FFEEDB",
+    "closeColor": "#FF0000",
+    "dateCount": "",
+    "publication": {
+      "datePublish": "2023-03-23T08:00",
+      "dateDelete": "2023-03-26T23:59"
+    }
+  }
+]

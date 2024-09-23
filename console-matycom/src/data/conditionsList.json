@@ -1,0 +1,65 @@
+﻿[
+  {
+    "id": 0,
+    "name": "cgvWeb",
+    "title": "Conditions Générales de Vente MATY",
+    "url": "conditions-generales-de-vente",
+    "query": "ConditionsGeneralesDeVente"
+  },
+  {
+    "id": 1,
+    "name": "cgMkp",
+    "title": "Conditions Générales Marketplace",
+    "url": "conditions-generales-marketplace",
+    "query": "ConditionsGeneralesMarketplace"
+  },
+  {
+    "id": 2,
+    "name": "cguMkpVendeurs",
+    "title": "Conditions Générales d'Utilisation Vendeurs Marketplace",
+    "url": "conditions-generales-d-utilisation-vendeurs-marketplace",
+    "query": "ConditionsGeneralesDUtilisationVendeursMarketplace"
+  },
+  {
+    "id": 3,
+    "name": "cgProgrammeFidelite",
+    "title": "Conditions Générales du Programme de Fidélité",
+    "url": "conditions-generales-du-programme-de-fidelite",
+    "query": "ConditionsGeneralesDuProgrammeDeFidelite"
+  },
+  {
+    "id": 4,
+    "name": "cgIngenico",
+    "title": "Conditions Générales Ingenico",
+    "url": "conditions-generales-ingenico",
+    "query": "ConditionsGeneralesIngenico"
+  },
+  {
+    "id": 5,
+    "name": "cgCartesCadeaux",
+    "title": "Conditions Générales des Cartes Cadeaux",
+    "url": "conditions-generales-des-cartes-cadeaux",
+    "query": "ConditionsGeneralesDesCartesCadeaux"
+  },
+  {
+    "id": 6,
+    "name": "cgServiceLocation",
+    "title": "Conditions Générales du Service de Location",
+    "url": "conditions-generales-du-service-de-location",
+    "query": "ConditionsGeneralesDuServiceDeLocation"
+  },
+  {
+    "id": 7,
+    "name": "protectionViePrivee",
+    "title": "Protection de la Vie Privée",
+    "url": "protection-de-la-vie-privee",
+    "query": "ProtectionDeLaViePrivee"
+  },
+  {
+    "id": 8,
+    "name": "mentionsLegales",
+    "title": "Mentions Légales",
+    "url": "mentions-legales",
+    "query": "MentionsLegales"
+  }
+]
